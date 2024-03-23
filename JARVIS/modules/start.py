@@ -35,12 +35,12 @@ async def start(event):
         bot_id = ANNIE.id
         TEXT = f"**ʜᴇʏ​ [{event.sender.first_name}](tg://user?id={event.sender.id}),\n\nɪ ᴀᴍ [{bot_name}](tg://user?id={bot_id})​**\n━━━━━━━━━━━━━━━━━━━\n\n"
         TEXT += f"» **ᴍʏ ᴅᴇᴠᴇʟᴏᴘᴇʀ​ : [HAWK](https://t.me/Noble_Redhawk)**\n\n"
-        TEXT += f"» **ᴊᴀʀᴠɪs V2 :** `M 1.8.31`\n"
+        TEXT += f"» **Hawk V2 :** `M 1.8.31`\n"
         TEXT += f"» **ᴘʏᴛʜᴏɴ ᴠᴇʀsɪᴏɴ :** `3.11.3`\n"
         TEXT += f"» **ᴛᴇʟᴇᴛʜᴏɴ ᴠᴇʀsɪᴏɴ :** `{__version__}`\n━━━━━━━━━━━━━━━━━"
         await event.client.send_file(
               event.chat_id,
-                    "https://github.com/doraemon890/JARVIS-X-SPAM/assets/155803358/f30a5777-9823-45d0-9860-342eceadb774",
+                    "https://graph.org/file/891ec891d180ff55c0b4b.mp4",
                     caption=TEXT, 
                     buttons=START_BUTTON
                 )
