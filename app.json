@@ -8,56 +8,56 @@
         "PythonX",
         "SpamBots"
     ],
-    "repository": "https://github.com/doraemon890/Jarvis-X-spam",
+    "repository": "https://github.com/Redhawk-12/JARIVIS",
     "env": {
       "BOT_TOKEN": {
         "description": "Telegram Bot Token Get This value from https://t.me/BotFather",
-        "value": "",
+        "value": "7096957126:AAGL0UdWhaAs7ZpIj4FD5RXi6mzmep-nJe4",
         "required": true
       },
       "BOT_TOKEN2": {
         "description": "Telegram Bot Token Get This value from https://t.me/BotFather",
-        "value": "",
+        "value": "6786089541:AAHrQnD7dmA6IlWzS-ywWn5NR_rdg0LOk80",
         "required": true
       },
       "BOT_TOKEN3": {
         "description": "Telegram Bot Token Get This value from https://t.me/BotFather",
-        "value": "",
+        "value": "7151756716:AAGFWsLqkXGTUXax8mwHyKZbRxOYwwVenjU",
         "required": true
       },
       "BOT_TOKEN4": {
         "description": "Telegram Bot Token Get This value from https://t.me/BotFather",
-        "value": "",
+        "value": "7168893077:AAFspXhkorENR2sl_DMGUGQYRCCx_08p4OY",
         "required": true
       },
       "BOT_TOKEN5": {
         "description": "Telegram Bot Token Get This value from https://t.me/BotFather",
-        "value": "",
+        "value": "6550310257:AAHwd4jSzAv9RRZtypZ8fJtSHMh1D2F86gE",
         "required": true
       },
       "BOT_TOKEN6": {
         "description": "Telegram Bot Token Get This value from https://t.me/BotFather",
-        "value": "",
+        "value": "7142267322:AAFQbjNmmwLqK47t-gaTQsx2cXf717ShbsE",
         "required": true
       },
       "BOT_TOKEN7": {
         "description": "Telegram Bot Token Get This value from https://t.me/BotFather",
-        "value": "",
+        "value": "6692946163:AAGVngXsyU1Dl4geqa1r8sGn-oIO-udQaTE",
         "required": true
       },
       "BOT_TOKEN8": {
         "description": "Telegram Bot Token Get This value from https://t.me/BotFather",
-        "value": "",
+        "value": "6997786510:AAEq-7xyFoXpW4VYI8fz9aFHGP_11vA3wyI",
         "required": true
       },
       "BOT_TOKEN9": {
         "description": "Telegram Bot Token Get This value from https://t.me/BotFather",
-        "value": "",
+        "value": "7065398067:AAFwZpBQxpB9t6wSFRL9E141QvBMfYQ-9io",
         "required": true
       },
       "BOT_TOKEN10": {
         "description": "Telegram Bot Token Get This value from https://t.me/BotFather",
-        "value": "",
+        "value": "7106067865:AAF9eNgfxO-EXdvuW5dGVz39jTvV59z-fYI",
         "required": true
       },
       "CMD_HNDLR": {
@@ -67,12 +67,12 @@
       },
       "SUDO_USERS": {
         "description": "Sudo users id space by space",
-        "value": "",
+        "value": "5269893269",
         "required": false
       },
       "OWNER_ID": {
         "description": "Owner Id",
-        "value": "",
+        "value": "5269893269",
         "required": true
       },
       "HEROKU_API_KEY": {
