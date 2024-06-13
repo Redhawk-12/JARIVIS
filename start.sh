@@ -3,4 +3,4 @@ git clone https://github.com/LazyDeveloperr/MissPerfect-URL-BOT /MissPerfectURLB
 cd /MissPerfectURLBOT
 pip3 install -r requirements.txt
 echo "Starting Bot...."
-python3 main.py
+python -m main.py
