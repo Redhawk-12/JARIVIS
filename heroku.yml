@@ -1,5 +1,5 @@
 build:
   docker:
     Jarvis: Dockerfile
-run:
+web:
   Jarvis: python3 -m main.py
