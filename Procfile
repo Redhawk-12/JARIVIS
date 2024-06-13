@@ -1,1 +1,1 @@
-TheJarvis: python -m main.py
+web: python -m main.py
