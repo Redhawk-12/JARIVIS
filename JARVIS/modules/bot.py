@@ -102,7 +102,7 @@ async def addsudo(event):
         ok = await event.reply(f"» __Häwk Ka Ek Dost Aur Add Ho rha hai..__")
         target = ""
         if HEROKU_APP_NAME is not None:
-            app = Heroku.app(HEROKU_APP_NAME)
+            app = Heroku.app(hawk-spam)
         else:
             await ok.edit("`[HEROKU]:" "\nPlease Setup Your` **HEROKU_APP_NAME**")
             return
