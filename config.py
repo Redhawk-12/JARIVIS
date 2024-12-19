@@ -13,7 +13,7 @@ logging.basicConfig(format='[%(levelname) 5s/%(asctime)s] %(name)s: %(message)s'
 API_ID = 18136872
 API_HASH = "312d861b78efcd1b02183b2ab52a83a4"
 CMD_HNDLR = getenv("CMD_HNDLR", default=".")
-HEROKU_APP_NAME = getenv("HEROKU_APP_NAME", None)
+HEROKU_APP_NAME = getenv("hawkxspam")
 HEROKU_API_KEY = getenv("HEROKU_API_KEY", None)
 
 BOT_TOKEN = getenv("BOT_TOKEN", default=None)
@@ -27,7 +27,7 @@ BOT_TOKEN8 = getenv("BOT_TOKEN8", default=None)
 BOT_TOKEN9 = getenv("BOT_TOKEN9", default=None)
 BOT_TOKEN10 = getenv("BOT_TOKEN10", default=None)
 
-SUDO_USERS = list(map(lambda x: int(x), getenv("SUDO_USERS", default="1983816571").split()))
+SUDO_USERS = list(map(lambda x: int(x), getenv("SUDO_USERS", default="5503537037").split()))
 for x in FRIDAY:
     SUDO_USERS.append(x)
 OWNER_ID = int(getenv("OWNER_ID", default="5269893269"))
